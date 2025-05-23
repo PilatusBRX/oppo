@@ -18,7 +18,7 @@ export default defineConfig({
       prefetchAll: true
     },
   output: 'static',
-  site: 'https://example.com',
+  site: 'https://hellostudio.netlify.app/',
   integrations: [mdx(), sitemap(), icon()],
 
   vite: {
